@@ -1,7 +1,7 @@
 # DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization
 ### [[Paper]](https://arxiv.org/abs/2411.08373) 
 
-> [**DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization**](https://arxiv.org/abs/2407.01303),            
+> [**DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization**](https://arxiv.org/abs/2411.08373),            
 > Yueming Xu*, Haochen Jiang*, Zhongyang Xiao, Jianfeng Feng, Li Zhang  
 > **NIPS 2024**
 
