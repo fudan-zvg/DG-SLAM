@@ -3,7 +3,7 @@
 
 > [**DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization**](https://arxiv.org/abs/2411.08373),            
 > Yueming Xu*, Haochen Jiang*, Zhongyang Xiao, Jianfeng Feng, Li Zhang  
-> **NIPS 2024**
+> **NeurIPS 2024**
 
 **Official implementation of "DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization".** 
 
