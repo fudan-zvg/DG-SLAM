@@ -1,0 +1,13 @@
+scene: rgbd_dataset_freiburg3_walking_rpy
+inherit_from: configs/TUM_RGBD/tum.yaml
+config_path: configs/TUM_RGBD/rgbd_dataset_freiburg3_walking_rpy.yaml
+data:
+  output: output/TUM_RGBD/rgbd_dataset_freiburg3_walking_rpy
+  exp_name: test
+cam:  
+  H: 480 
+  W: 640 
+  fx: 535.4
+  fy: 539.2
+  cx: 320.1
+  cy: 247.6

@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.xml
+.vscode
+output
+build
+media
+diff_rasterization_depth_pose/diff_rast.egg-info
+diff_rasterization_depth_pose/dist

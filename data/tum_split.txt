@@ -1,0 +1,4 @@
+rgbd_dataset_freiburg3_walking_rpy
+rgbd_dataset_freiburg3_walking_xyz
+rgbd_dataset_freiburg3_sitting_xyz
+rgbd_dataset_freiburg3_long_office_household

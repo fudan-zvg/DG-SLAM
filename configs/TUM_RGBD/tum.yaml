@@ -1,0 +1,39 @@
+dataset: 'tumrgbd'
+project_name: "GS_SLAM_tumrgbd"
+model:
+  encode_exposure: False  
+  encode_rel_pos_in_col: False
+  encode_viewd: False  
+tracking:
+  separate_LR: True
+  lr: 0.001
+  ignore_edge_W: 10 
+  ignore_edge_H: 10 
+  pixels: 5000
+  iters: 50 
+  sample_with_color_grad: True
+  pose_eval_freq: 1
+mapping:
+  BA: False 
+  BA_cam_lr: 0.001  
+  geo_iter_ratio: 0.3
+  mapping_window_size: 10 
+  keyframe_every: 1
+  pixels: 10000
+  iters_first: 500
+  geo_iter_first: 200
+  iters: 100 
+  
+  w_color_loss: 0.9 
+  w_geo_loss: 0.1 
+  lambda_ssim_loss: 0.2
+cam:  
+  H: 480 
+  W: 640 
+  fx: 517.3
+  fy: 516.5
+  cx: 318.6
+  cy: 255.3
+  png_depth_scale: 5000.0
+meshing:
+  eval_rec: False
