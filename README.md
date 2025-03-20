@@ -25,7 +25,7 @@ cd DG-SLAM
 
 ```bash
 # Create conda environment
-conda create -n dgslam -f environment.yaml
+conda env create -n dgslam -f environment.yaml
 conda activate dgslam
 ```
 
