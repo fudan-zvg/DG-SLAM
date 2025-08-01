@@ -65,12 +65,13 @@ python run_tum.py
 ## 📜 BibTeX
 If you find our code or paper useful for your research, please consider citing:
 ```bibtex
-@inproceedings{xu2024dgslam,
-title={{DG}-{SLAM}: Robust Dynamic Gaussian Splatting {SLAM} with Hybrid Pose Optimization},
-author={Yueming Xu and Haochen Jiang and Zhongyang Xiao and Jianfeng Feng and Li Zhang},
-booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
-year={2024},
-url={https://openreview.net/forum?id=tGozvLTDY3}
+@article{xu2024dg,
+  title={Dg-slam: Robust dynamic gaussian splatting slam with hybrid pose optimization},
+  author={Xu, Yueming and Jiang, Haochen and Xiao, Zhongyang and Feng, Jianfeng and Zhang, Li},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={51577--51596},
+  year={2024}
 }
 ```
 
